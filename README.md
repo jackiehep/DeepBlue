@@ -1,2 +1,3 @@
 # DeepBlue
-Hi,zhenjiang yatai palaz ,mayby i will sale it !
+Hi,human!
+ Glad to write first line code here ,and i will continue to finish the past!
