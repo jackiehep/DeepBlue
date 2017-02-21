@@ -13,7 +13,7 @@ public:
  {
    m_nLen=nSize;
    if(!m_pBuf)
-     m_pBuf=new char(m_nLen);
+     m_pBuf=new char[m_nLen];
   }
  } 
 };
