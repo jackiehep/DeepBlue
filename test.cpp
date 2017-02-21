@@ -20,5 +20,6 @@ public:
 int main(int argc,char * args[])
 {
   BufferList buffer;
+  cout<<"This is a Test"<<endl;
   return 1;
 }
